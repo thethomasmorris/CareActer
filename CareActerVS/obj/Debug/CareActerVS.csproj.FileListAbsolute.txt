@@ -1,0 +1,22 @@
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\bin\Debug\CareActerVS.exe.config
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\bin\Debug\CareActerVS.exe
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\bin\Debug\CareActerVS.pdb
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.Form1.resources
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.Properties.Resources.resources
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.exe
+C:\Users\Owner\Desktop\EKU\2020Fall\CSC 440 Applied Software Engineering\CareActerVS\CareActerVS\obj\Debug\CareActerVS.pdb
+E:\CSC 440\CareActerVS\CareActerVS\bin\Debug\CareActerVS.exe.config
+E:\CSC 440\CareActerVS\CareActerVS\bin\Debug\CareActerVS.exe
+E:\CSC 440\CareActerVS\CareActerVS\bin\Debug\CareActerVS.pdb
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csprojAssemblyReference.cache
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.Form1.resources
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.Properties.Resources.resources
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csproj.GenerateResource.cache
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.exe
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.pdb
+E:\CSC 440\CareActerVS\CareActerVS\bin\Debug\MySql.Data.dll
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csproj.CopyComplete
+E:\CSC 440\CareActerVS\CareActerVS\obj\Debug\CareActerVS.csproj.CoreCompileInputs.cache
